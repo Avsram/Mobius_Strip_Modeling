@@ -1,0 +1,6 @@
+
+# This is a requirements.txt file
+python>=3.8
+numpy>=1.20
+scipy>=1.6
+matplotlib>=3.3
