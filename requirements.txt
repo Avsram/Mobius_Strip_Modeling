@@ -1,6 +1,6 @@
 
 # This is a requirements.txt file
 #Python:        3.11.11
-numpy:         1.24.3
-scipy:         1.10.1
-matplotlib:    3.7.1
+NumPy: 1.24.0
+SciPy: 1.9.3
+Matplotlib: 3.6.3
